@@ -1,0 +1,17 @@
+/* public/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+input, button {
+    padding: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#play-again-btn {
+    display: none;
+}
